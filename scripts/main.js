@@ -1,3 +1,5 @@
+cp
+
 var swiper = new Swiper(".mySwiper", {
     lazy: true,
     loop: true,
