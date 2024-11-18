@@ -1,4 +1,4 @@
-cp
+console.log("main.js");
 
 var swiper = new Swiper(".mySwiper", {
     lazy: true,
